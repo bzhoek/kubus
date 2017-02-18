@@ -10,6 +10,12 @@ Hallo ik ben Julius en ik ben 10 jaar en ik kan de Rubik's kubus oplossen. Dat d
 * VOor, VA = voor andersom
 * Achter
 
+<iframe width="420" height="315" src="http://www.youtube.com/embed/xBG-Y2lBTXY" frameborder="0" allowfullscreen></iframe>
+
+## Het draaien
+
+<iframe width="420" height="315" src="http://www.youtube.com/embed/fy0oMGS8EaQ" frameborder="0" allowfullscreen></iframe>
+
 ## Stap 1 - Het witte kruis
 
 ## Stap 2 - Het witte vlak
