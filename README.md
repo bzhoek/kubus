@@ -4,11 +4,11 @@ Deze site geeft je ezelsbruggetjes om de Rubik's kubus op te lossen.
 
 Hallo ik ben Julius en ik ben 10 jaar en ik kan de Rubik's kubus oplossen. Dat doe je in 7 stappen.
 
-BOven, BA = boven andersom
-REchts, RA = rechts andersom
-LInks, LA = links andersom
-VOor, VA = voor andersom
-Achter
+* BOven, BA = boven andersom
+* REchts, RA = rechts andersom
+* LInks, LA = links andersom
+* VOor, VA = voor andersom
+* Achter
 
 ## Stap 1 - Het witte kruis
 
@@ -18,7 +18,7 @@ Achter
 
 Naar rechts
 * BORE BARA BAVA BOVO
-* de BOrREl in de BARAk naast het BAanVAk zit BOmVOl
+* de BOeREn BARAk naast het BAanVAk zit BOmVOl
 
 Naar links
 * BALA BOLI BOVO BAVA
