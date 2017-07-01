@@ -6,6 +6,17 @@ Hallo ik ben Julius en ik ben 10 jaar en ik kan de Rubik's kubus oplossen. Dat d
 
 * `L`inks, `R`echts, `B`oven, `V`oor, `A`chter. Gevolgd door een `i` voor andersom.
 
+TOp VOor Achter LInks REchts
+
+OD RL HZ UA
+
+Open Dicht
+Rechts Links
+Harder Zachter
+Uit Aan
+
+toren
+
 <iframe width="420" height="315" src="http://www.youtube.com/embed/xBG-Y2lBTXY" frameborder="0" allowfullscreen></iframe>
 
 ## Het draaien
@@ -19,19 +30,20 @@ Hallo ik ben Julius en ik ben 10 jaar en ik kan de Rubik's kubus oplossen. Dat d
 ## Stap 3 - De tweede laag
 
 Naar rechts
-* BORE BARA BAVA BOVO
-* de BOeREn BARAk naast het BAanVAk zit BOmVOl
+* BORE BARA BAVA BOVO, ORDL DZOH
+- ORDeLijk DeZe OHm
 
 Naar links
-* BALA BOLI BOVO BAVA
-* die BAbbeLAar van de BOwLIng zit in een BOmVOl BAnkVAk
+* BALA BOLI BOVO BAVA, DUOA OHDZ
+- DUObAk OcH DeZe
 
 ## Stap 4 - Het gele kruis
 
-* VOBORE BA RAVA
+* VOBORE BA RAVA, HORDLZ
+- HORDe LenZen
 - VeeBoeR Bijt RietVink
 
-* VOREBO RA BAVA
+* VOREBO RA BAVA, HRO LDZ HeROs LeeDweZen
 - VeRfBom Rij BierVilt
 
 ## Stap 5 - Het gele vlak
