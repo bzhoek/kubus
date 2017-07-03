@@ -4,14 +4,11 @@ Deze site geeft je ezelsbruggetjes om de Rubik's kubus op te lossen.
 
 Hallo ik ben Julius en ik ben 10 jaar en ik kan de Rubik's kubus oplossen. Dat doe je in 7 stappen.
 
-* `L`inks, `R`echts, `B`oven, `V`oor, `A`chter. Gevolgd door een `i` voor andersom.
-
 ## OD RL HZ UA
-Open Dicht
-Rechts Links
-Harder Zachter
-Uit Aan
-
+`O`pen `D`icht
+`R`echts `L`inks
+`H`arder `Z`achter
+`U`it `A`an
 
 <iframe width="420" height="315" src="http://www.youtube.com/embed/xBG-Y2lBTXY" frameborder="0" allowfullscreen></iframe>
 
@@ -26,37 +23,30 @@ Uit Aan
 ## Stap 3 - De tweede laag
 
 Naar rechts
-* BORE BARA BAVA BOVO, ORDL DZOH
-- {ORD}e{L}ijk {D}e{Z}e {O}p{H}ef
+- `ORD`e`L`ijk `D`e`Z`e `O`p`H`ef
 
 Naar links
-* BALA BOLI BOVO BAVA, DUOA OHDZ
-- {DUOA}ne? {O}c{H} {D}e{Z}e
+- `DU`s `O`p`A`? `O`c`H` `D`e`Z`e
 
 ## Stap 4 - Het gele kruis
 
-* VOBORE BA RAVA, HORDLZ
-- {HORD}e {L}e{Z}ing
+- `HORD`e `L`in`Z`en
 - VeeBoeR Bijt RietVink
 
-* VOREBO RA BAVA, HRO LDZ 
-- {H}e{RO}s {L}ee{D}we{Z}en
-- VeRfBom Rij BierVilt
+- `H`e`RO`s `L`ee`D`we`Z`en `H`e`R`ten w`OL` `D`e`Z`e  
+- VeRfBom Rij BierVis
 
 ## Stap 5 - Het gele vlak
 
-* REBORABO REBOBORA
-- {ROLO} {R}i{OOL}
+- `ROLO` `R`i`OOL`
 - RouwBeRicht Boerenbord BRief
 
 ## Stap 6 - De juiste hoeken
 
-* RAVO RAAAAARE VA RAAAAARE REBA
-- {L}yc{H}ee {L}e{BB}e{R} {Z}e {L}e{BB}e{R} {R}e{D}en
+- `L`ic`H`t g`L`i`BB`e`R` `Z`eg g`L`i`BB`e`R` gRinD
 - RietVeld RijpAARd Vis RijpAARd RoBijn
 
 ## Stap 7 - Het juiste midden
 
-* VOVO BOLIRA VOVO LAREBO VOVO
-- {H}i{H}i {O}pst{AL} {H}i{H}i {U}it{RO}ep {H}i{H}i
+- `H`i`H`i g`OAL` `H`i`H`i e`URO` `H`i`H`i
 - VoetVeeg BoomLeeuweRik  VoetVeeg Linkerbeen Voetveeg
