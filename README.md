@@ -63,7 +63,6 @@ Alle bewegingen aan de binnenkant, behalve de bovenste. Het rechtervlak wordt op
 
 `L`a`M`e `ROL` `V`isse`R`
 
-
 ## Zijkant
 
 Alle bewegingen aan de buitenkant, behalve de onderste.
@@ -78,6 +77,11 @@ Kleuren gespiegeld op zelfde hoogte.
 
 `VR`ij `ZwOeL`e `H`a`M`
 
+## Pariteit
+
+Het kan zijn dat met het witte vlak de zijkanten niet op de juiste plek zitten. Met twee te verwisselen delen tegenover elkaar.
+
+LaLa OO LaLa OO, MaMa LaLa MaMa
 
 ## Historie
 Vroeger gebruikten we andere zinnetjes. 
@@ -86,30 +90,3 @@ Vroeger gebruikten we andere zinnetjes.
 - RouwBeRicht Boerenbord BRief
 - RietVeld RijpAARd Vis RijpAARd RoBijn
 - VoetVeeg BoomLeeuweRik  VoetVeeg Linkerbeen Voetveeg
-
-
-
-A: 2
-B: 4
-c: 2
-D: 8
-e: 21
-f: 2
-g: 5
-H: 12
-i: 13
-j: 1
-k: 1
-L: 10
-	m
-n: 5
-O: 13
-p: 2
-	q
-R: 10
-s: 2
-t: 2
-U: 2
-	v
-w: 2
-Z: 6
