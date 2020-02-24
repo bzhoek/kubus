@@ -12,7 +12,11 @@ Hallo ik ben Julius en ik ben 10 jaar en ik kan de Rubik's kubus oplossen. Dat d
 
 ## Stap 1 - Het witte kruis
 
+Deze moet je zelf oplossen.
+
 ## Stap 2 - Het witte vlak
+
+Deze ook :-)
 
 ## Stap 3 - De tweede laag
 
@@ -24,9 +28,14 @@ Naar links
 
 ## Stap 4 - Het gele kruis
 
+Alleen het midden, of hoek linksboven.
+
 - `HORD`e `L`in`Z`en
+
+Streep
+
 - `H`e`RO`s `L`ee`D`we`Z`en, of
-- `H`e`R`ten w`OL` `D`e`Z`e  
+- `H`ie`RO` `L`ees `D`e`Z`e  
 
 ## Stap 5 - Het gele vlak
 
@@ -37,11 +46,38 @@ Kubus vasthouden zoals op het plaatje, afhankelijk of er 0, 1, of 2 hoeken al go
 
 ## Stap 6 - De juiste hoeken
 
-- `L`ic`H`t g`L`i`BB`e`R` `Z`eg g`L`i`BB`e`R` gRinD
+- `L`ic`H`t g`L`i`BB`e`R` `Z`eg g`L`i`BB`e`R` g`R`in`D`
 
 ## Stap 7 - Het juiste midden
 
 - `H`i`H`i g`OAL` `H`i`H`i e`URO` `H`i`H`i
+
+# 4x4
+
+Rood - Wit - Blauw zijaanzicht, tegenover Oranje, Geel, Groen.
+`M`an - `V`rouw voor de onderkant.
+
+## Centrum
+
+Alle bewegingen aan de binnenkant, behalve de bovenste. Het rechtervlak wordt opgelost.
+
+`L`a`M`e `ROL` `V`isse`R`
+
+
+## Zijkant
+
+Alle bewegingen aan de buitenkant, behalve de onderste.
+
+Een kleur links en de andere schuin rechts om de hoek.
+
+`R`ij `ZO` `H`ij
+
+Kleuren gespiegeld op zelfde hoogte.
+
+`VR`ij `ZO` `L`ic`H`t `M`ij
+
+`VR`ij `ZwOeL`e `H`a`M`
+
 
 ## Historie
 Vroeger gebruikten we andere zinnetjes. 
@@ -50,3 +86,30 @@ Vroeger gebruikten we andere zinnetjes.
 - RouwBeRicht Boerenbord BRief
 - RietVeld RijpAARd Vis RijpAARd RoBijn
 - VoetVeeg BoomLeeuweRik  VoetVeeg Linkerbeen Voetveeg
+
+
+
+A: 2
+B: 4
+c: 2
+D: 8
+e: 21
+f: 2
+g: 5
+H: 12
+i: 13
+j: 1
+k: 1
+L: 10
+	m
+n: 5
+O: 13
+p: 2
+	q
+R: 10
+s: 2
+t: 2
+U: 2
+	v
+w: 2
+Z: 6
