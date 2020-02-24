@@ -81,12 +81,4 @@ Kleuren gespiegeld op zelfde hoogte.
 
 Het kan zijn dat met het witte vlak de zijkanten niet op de juiste plek zitten. Met twee te verwisselen delen tegenover elkaar.
 
-LaLa OO LaLa OO, MaMa LaLa MaMa
-
-## Historie
-Vroeger gebruikten we andere zinnetjes. 
-- VeeBoeR Bijt RietVink
-- VeRfBom Rij BierVis
-- RouwBeRicht Boerenbord BRief
-- RietVeld RijpAARd Vis RijpAARd RoBijn
-- VoetVeeg BoomLeeuweRik  VoetVeeg Linkerbeen Voetveeg
+`L`a`L`a `O`ei`O`ei `L`a`L`a `O`ei`O`ei, `M`a`M`a `L`a`L`a `M`a`M`a
