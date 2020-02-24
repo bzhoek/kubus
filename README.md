@@ -82,3 +82,6 @@ Kleuren gespiegeld op zelfde hoogte.
 Het kan zijn dat met het witte vlak de zijkanten niet op de juiste plek zitten. Met twee te verwisselen delen tegenover elkaar.
 
 `L`a`L`a `O`ei`O`ei `L`a`L`a `O`ei`O`ei, `M`a`M`a `L`a`L`a `M`a`M`a
+
+https://www.youcandothecube.com/solve-it/4x4-solution
+https://www.mtholyoke.edu/courses/quenell/s2003/ma139/js/count.html
